@@ -1,14 +1,34 @@
+# Gradle
+.gradle/
+build/
+app/build/
+**/build/
+
+# Android Studio & IDEs
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea
-.DS_Store
-/build
-/app/build
-/captures
-.externalNativeBuild
-.cxx
-*.apk
-*.aar
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+.vscode/
+
+# Local & Secret Properties
+local.properties
+key.properties
+secrets.properties
+
+# Signing Keys & Certificates
 *.keystore
 *.jks
+*.p12
+*.pepk
+
+# Built Binaries & Packages
+*.apk
+*.aab
+*.aar
+
+# OS generated files
+.DS_Store
+Thumbs.db
