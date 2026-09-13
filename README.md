@@ -18,6 +18,14 @@ Miss a day? Banked streak freezes silently cover your missed day without breakin
 
 ---
 
+## 🎨 App Screenshots
+
+| Home Feed | Streak Detail & History | Add/Edit Streak |
+|:---:|:---:|:---:|
+| <img src="Home_Feed.jpg" width="280" alt="Home Feed" /> | <img src="Streak_Detail.jpg" width="280" alt="Streak Detail" /> | <img src="Add_Streak.jpg" width="280" alt="Add Streak" /> |
+
+---
+
 ## 🚀 Key Features
 
 - **Multiple Independent Streaks**: Track unlimited habits simultaneously, each with its own count, history calendar, and dedicated freeze bank.
@@ -29,16 +37,6 @@ Miss a day? Banked streak freezes silently cover your missed day without breakin
 - **Digested Evening Reminders**: WorkManager schedules a single non-intrusive digested daily reminder listing open habits with quick completion buttons right in the notification.
 - **Jetpack Glance Home Widget**: Place per-streak Glance widget instances on your Android home screen to view counts and complete habits with a single tap.
 - **100% On-Device & Private**: Zero network transmission, zero tracking SDKs, zero accounts required. All data resides in local Room SQLite storage.
-
----
-
-## 🎨 App Screenshots
-
-*(Replace placeholders below with actual screenshots of your app running on device)*
-
-| Home Feed | Streak Detail & History | Add/Edit Streak |
-|:---:|:---:|:---:|
-| ![Home Feed Placeholder](https://via.placeholder.com/280x560?text=HomeScreen+View) | ![Streak Detail Placeholder](https://via.placeholder.com/280x560?text=Detail+Calendar+View) | ![Add Streak Placeholder](https://via.placeholder.com/280x560?text=AddEdit+Form) |
 
 ---
 

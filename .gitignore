@@ -29,6 +29,9 @@ secrets.properties
 *.aab
 *.aar
 
+# Internal Planning / Brainstorm Docs
+STREAK_APP_BRAINSTORM.md
+
 # OS generated files
 .DS_Store
 Thumbs.db
