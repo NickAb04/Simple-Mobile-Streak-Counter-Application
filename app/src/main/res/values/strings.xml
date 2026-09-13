@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RiyStreak</string>
+    <string name="streak_counter_desc">Focus commit daily habits with Duolingo-style streak forgiveness.</string>
+</resources>
